@@ -10,6 +10,6 @@ https://www.tenable.com/plugins/nessus/12217
 - Watchguard Cloud
 https://www.watchguard.com/wgrd-products/network-security?msclkid=c3be3e8a03fd1e2e513258b4a0e98587&utm_source=bing&utm_medium=cpc&utm_campaign=MA-US-Search-Products-Brand&utm_term=watchguard%20cloud&utm_content=Network%20Security
 - DNS Cache Snooping by Luis Grangeia
-cache_snooping.pdf
+https://github.com/HarperGraves/Cybersecurity-Project/blob/main/cache_snooping.pdf
 - Watchguard Help Article; Enable DNSWatch on your Firebox.
 https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Fireware/services/dnswatch/dnswatch_enable_c.html
